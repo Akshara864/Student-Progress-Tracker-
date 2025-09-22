@@ -1,0 +1,1 @@
+This is a simple C++ program that demonstrates important concepts through variety of concepts includeing constructor, operator overloading, friend function, inheritance, function overloadingm , static members, menu-driven
